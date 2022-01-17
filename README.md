@@ -17,4 +17,4 @@
 11. Buka project pada url (http://127.0.0.1:8000)
 
 ## Credit
-Code Aslinya Widdy Arfiansyah (https://github.com/arvians-id)
+Code Aslinya di Widdy Arfiansyah (https://github.com/arvians-id)
