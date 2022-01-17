@@ -16,5 +16,5 @@
 10. Buka terminal dan lakukan perintah "npx sequelize db:migrate" lalu "npm i -g nodemon --save" dan terakhir "npm start"
 11. Buka project pada url (http://127.0.0.1:8000)
 
-#### Credit
-Widdy Arfiansyah (https://github.com/arvians-id)
+## Credit
+Code Aslinya Widdy Arfiansyah (https://github.com/arvians-id)
